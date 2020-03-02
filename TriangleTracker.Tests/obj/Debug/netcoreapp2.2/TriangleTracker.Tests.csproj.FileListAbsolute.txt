@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/Triangle-Tracker/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Triangle-Tracker/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Triangle-Tracker/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Triangle-Tracker/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/Triangle-Tracker/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Triangle-Tracker/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Triangle-Tracker/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Triangle-Tracker/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.Tests.deps.json
+/Users/Guest/Desktop/Triangle-Tracker/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.Tests.runtimeconfig.json
+/Users/Guest/Desktop/Triangle-Tracker/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Triangle-Tracker/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.Tests.dll
+/Users/Guest/Desktop/Triangle-Tracker/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.Tests.pdb
+/Users/Guest/Desktop/Triangle-Tracker/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.dll
+/Users/Guest/Desktop/Triangle-Tracker/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.pdb
+/Users/Guest/Desktop/Triangle-Tracker/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/Triangle-Tracker/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.dll
+/Users/Guest/Desktop/Triangle-Tracker/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.pdb
